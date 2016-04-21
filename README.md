@@ -1,6 +1,7 @@
 # Website
 
-Based of of [Creative](http://startbootstrap.com/template-overviews/creative/)
+Made by [Marcel O'Neil](https://github.com/marceloneil)
+Based off of [Creative](http://startbootstrap.com/template-overviews/creative/)
 
 
 ## Copyright and License
